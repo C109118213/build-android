@@ -32,6 +32,7 @@ import com.google.firebase.codelab.friendlychat.model.FriendlyMessage
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.storage.ktx.storage
 //hiiiiiiiiiiiiiiiiiii
+//helllllllllllllllllo
 // The FirebaseRecyclerAdapter class and options come from the FirebaseUI library
 // See: https://github.com/firebase/FirebaseUI-Android
 class FriendlyMessageAdapter(
